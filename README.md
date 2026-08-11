@@ -12,7 +12,6 @@
 - 🔭 目前在做 **LLM / Agent 相关的产品与工程实践**
 - 🌱 正在深入 **Agent 框架、RAG、多智能体协作** 等方向
 - 💬 欢迎找我交流 **大模型应用、Agent 架构、Prompt 工程**
-- 📫 联系我:**shuxiu.zhang@mirofish.ai**
 
 <br/>
 
@@ -65,7 +64,6 @@
 
 <div align="center">
 
-<a href="mailto:shuxiu.zhang@mirofish.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- TODO: 把下面的 https://your-website.com 换成你的个人网站地址 -->
 <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
